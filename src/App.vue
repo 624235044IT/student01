@@ -23,7 +23,7 @@ export default {
           weight: 45,
           height: 155,
           picture:
-            ,
+            "https://raw.githubusercontent.com/624235044IT/picture/main/5.jpg",
         },
         {
           studentId: "624235034",
@@ -32,7 +32,7 @@ export default {
           weight: 43,
           height: 165,
           picture:
-            "https://raw.githubusercontent.com/624235048/imges/main/2.jpg",
+            "https://raw.githubusercontent.com/624235044IT/picture/main/1.jpg",
         },
         {
           studentId: "624235051",
@@ -41,7 +41,7 @@ export default {
           weight: 62,
           height: 165,
           picture:
-            "https://raw.githubusercontent.com/624235048/imges/main/3.jpg",
+            "https://raw.githubusercontent.com/624235044IT/picture/main/2.jpg",
         },
         {
           studentId: "624235036",
@@ -50,7 +50,7 @@ export default {
           weight: 65,
           height: 175,
           picture:
-            "https://raw.githubusercontent.com/624235048/imges/main/4.jpg",
+            "https://raw.githubusercontent.com/624235044IT/picture/main/4.jpg",
         },
         {
           studentId: "624235048",
@@ -59,7 +59,7 @@ export default {
           weight: 65,
           height: 175,
           picture:
-           "https://raw.githubusercontent.com/624235048/imges/main/1.jpg",
+           "https://raw.githubusercontent.com/624235044IT/picture/main/3.jpg",
         },
       ],
     };
